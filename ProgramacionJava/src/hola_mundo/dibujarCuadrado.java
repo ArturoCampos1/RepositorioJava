@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class dibujarCuadrado {
 
 	   public static void main(String[] args) {
-	   int largo, ancho;
+	   int largo, ancho, pruebaGit;
 	   Scanner entrada = new Scanner(System.in);
 	   System.out.println("Ingresa el tamaño de largo");
 	   largo = entrada.nextInt();
