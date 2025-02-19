@@ -13,6 +13,7 @@ public class BuckshotRoulette {
         Scanner teclado = new Scanner(System.in);
         Random random = new Random();
         
+        //
         // Definir variables del juego
         String jugador1, jugador2;
         int vidaJugador1 = 3;
